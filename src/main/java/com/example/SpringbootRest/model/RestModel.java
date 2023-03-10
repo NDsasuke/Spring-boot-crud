@@ -1,4 +1,4 @@
-package com.example.rest.model;
+package com.example.SpringbootRest.model;
 
 import jakarta.persistence.*;
 
